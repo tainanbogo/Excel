@@ -1,2 +1,2 @@
 # Excel
- Excel Excercises For Data Analysis
+ Excel Exercises For Data Analysis
